@@ -5,6 +5,6 @@ before launch sh file use ;
   $ sed -i -e 's/\r$//' <sh_filename>.sh 
   in your terminal.
 
-C file launc as known ;
+C file launch as known ;
   $ gcc -o SerialConList SerialConList.c 
   $ sudo ./SerialConList
